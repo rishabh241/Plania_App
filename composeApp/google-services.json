@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381370807766",
+    "project_id": "plania-app",
+    "storage_bucket": "plania-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381370807766:android:f8b7fb842a1f9611e52077",
+        "android_client_info": {
+          "package_name": "com.kmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBugVV-NhdXyMRL4ilsJ1hDMZI7iJpqZWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
